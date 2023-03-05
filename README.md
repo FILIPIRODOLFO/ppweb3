@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 
 <body>
@@ -18,5 +18,5 @@
         <li>facebook.com/filipi.rodolfo</li>
         <li>(63)992633746</li></ul>
 </body>
-</html>  
+ 
 <!--Página criada em 16 de fevereiro de 2023-->
