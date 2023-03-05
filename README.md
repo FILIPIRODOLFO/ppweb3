@@ -1,6 +1,3 @@
-
-
-
 <body>
     <h1>Quem sou eu?</h1>
     <p>Atualmente tenho 42 anos, sou divorciado e tenho 3 filhos. Moro em Palmas-TO. Sou profissional do ramo de fabricação de tintas há 24 anos, já atuei como Técnico de laboratório, Formulador e atualmente como Gerente de produção.</p> 
